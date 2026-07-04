@@ -1,4 +1,0 @@
-streamlit
-psutil
-pandas
-streamlit-autorefresh
